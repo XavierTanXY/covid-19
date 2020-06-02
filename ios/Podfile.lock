@@ -1,0 +1,76 @@
+PODS:
+  - country_list_pick (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_share (0.0.1):
+    - Flutter
+  - geocoder (0.0.1):
+    - Flutter
+  - geolocator (5.3.0):
+    - Flutter
+  - google_api_availability (2.0.3):
+    - Flutter
+  - launch_review (0.0.1):
+    - Flutter
+  - location_permissions (2.0.5):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+  - url_launcher_macos (0.0.1):
+    - Flutter
+  - url_launcher_web (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - country_list_pick (from `.symlinks/plugins/country_list_pick/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_share (from `.symlinks/plugins/flutter_share/ios`)
+  - geocoder (from `.symlinks/plugins/geocoder/ios`)
+  - geolocator (from `.symlinks/plugins/geolocator/ios`)
+  - google_api_availability (from `.symlinks/plugins/google_api_availability/ios`)
+  - launch_review (from `.symlinks/plugins/launch_review/ios`)
+  - location_permissions (from `.symlinks/plugins/location_permissions/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - url_launcher_macos (from `.symlinks/plugins/url_launcher_macos/ios`)
+  - url_launcher_web (from `.symlinks/plugins/url_launcher_web/ios`)
+
+EXTERNAL SOURCES:
+  country_list_pick:
+    :path: ".symlinks/plugins/country_list_pick/ios"
+  Flutter:
+    :path: Flutter
+  flutter_share:
+    :path: ".symlinks/plugins/flutter_share/ios"
+  geocoder:
+    :path: ".symlinks/plugins/geocoder/ios"
+  geolocator:
+    :path: ".symlinks/plugins/geolocator/ios"
+  google_api_availability:
+    :path: ".symlinks/plugins/google_api_availability/ios"
+  launch_review:
+    :path: ".symlinks/plugins/launch_review/ios"
+  location_permissions:
+    :path: ".symlinks/plugins/location_permissions/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  url_launcher_macos:
+    :path: ".symlinks/plugins/url_launcher_macos/ios"
+  url_launcher_web:
+    :path: ".symlinks/plugins/url_launcher_web/ios"
+
+SPEC CHECKSUMS:
+  country_list_pick: 15dde46ef0157b459a00e2747795278c104b437a
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_share: 4be0208963c60b537e6255ed2ce1faae61cd9ac2
+  geocoder: 3cfab70531a0b367e917bafe82df4c30f6d4c45a
+  geolocator: 7cdcf71180b80913b3cd84ab715d3b5365b378af
+  google_api_availability: 526574c9a5a0ae541e18c65f98e47afc11f53c8b
+  launch_review: 75d5a956ba8eaa493e9c9d4bf4c05e505e8d5ed0
+  location_permissions: 4a49d4e5bec5b653643e551ab77963cc99bb0e4a
+  url_launcher: a1c0cc845906122c4784c542523d8cacbded5626
+  url_launcher_macos: fd7894421cd39320dce5f292fc99ea9270b2a313
+  url_launcher_web: e5527357f037c87560776e36436bf2b0288b965c
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.9.1
